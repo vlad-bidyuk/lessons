@@ -1,0 +1,167 @@
+@import url("reset.css");
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Inter:500,600,700&display=swap);
+.block1{
+    font-family: 'Poppins';
+    width: 1440px;
+    height: 600px;
+    background-image: url("../img/01.jpg");
+    color: #E5E5E5;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.66;
+    padding-left: 100px;
+    border-radius: 0px 5px 5px 0px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+
+}
+.data{
+    padding-top: 330px;
+    padding-bottom: 15px;
+}
+.title{
+    padding-bottom: 15px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.6;
+    max-width: 605px;
+    color: #F8F9FA;
+}
+.block2{
+    font-family: "inter";
+    font-style: normal;
+    padding-left: 135px;
+    width: 1440px;
+    height: 560px;
+    background:linear-gradient(90deg, rgba(48, 86, 211, 0.08) 16.13%, rgba(48, 86, 211, 0) 86.29%), url("../img/music.png") 884px 81px no-repeat, url("../img/grad.png") 905px 0 / 620px 560px no-repeat,url("../img/grad22.jpg") 820px 0 / 620px 560px no-repeat;
+    margin-bottom: 50px;
+}
+.data2{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.33;
+    color: #3056D3;
+    padding-top: 145px;
+    padding-bottom: 13px;
+}
+.tatle2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.25;
+    color: #212B36;
+    max-width: 470px;
+    padding-bottom: 15px;
+}
+.tatle2 + p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #637381;
+    max-width: 570px;
+    padding-bottom: 35px;
+}
+.button{
+    width: 139px;
+    height: 44px;
+    background: #3056D3;
+    border-radius: 30px;
+}
+.button p{
+    color: aqua;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+.block3{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1;
+    padding-left: 135px;
+    color: #637381;
+}
+.tatle3{
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 0.96;
+    padding-bottom: 45px;
+    color: #212B36;
+}
+.column1{
+    width: 264px;
+    height: 180px;
+    margin-bottom: 30px;
+    line-height: 0.93;
+
+}
+.column2{
+    width: 309px;
+    height: 172px;
+    margin-bottom: 30px;
+}
+.column1 li{
+    padding-bottom: 18px;
+    background: url("../img/tocka.jpg") 0 4px / 8px no-repeat;
+    padding-left: 18px;
+}
+.column2 li{
+    margin-bottom: 18px;
+    background: url("../img/blue.jpg") 0 0 / 20px no-repeat;
+    padding-left: 30px;
+    min-height: 20px;
+    padding-top: 2px;
+}
+.column3{
+    width: 309px;
+    height: 172px;
+    margin-bottom: 30px;
+}
+.column3 li{
+    padding-bottom: 20px;
+    background: url("../img/gren.jpg") 0 0 / 20px no-repeat;
+    padding-left: 30px;
+    min-height: 20px;
+    padding-top: 2px;
+}
+.column4{
+    width: 309px;
+    height: 172px;
+    margin-bottom: 30px;
+}
+.column4 li{
+    padding-bottom: 20px;
+    background: url("../img/red.jpg") 0 0 / 20px no-repeat;
+    padding-left: 30px;
+    min-height: 20px;
+    padding-top: 2px;
+
+}
+.column5{
+    width: 309px;
+    height: 172px;
+    margin-bottom: 30px;
+}
+.column5 li{
+    padding-bottom: 20px;
+    background: url("../img/strilca.jpg") 0 0 / 20px no-repeat;
+    padding-left: 30px;
+    min-height: 20px;
+    padding-top: 2px;
+}
+.column6{
+    width: 307px;
+    height: 162px;
+}
+.column6 li{
+    padding-bottom: 18px;
+    background: url("../img/zirca.jpg") 0 0 / 18px no-repeat;
+    padding-left: 28px;
+    min-height: 20px;
+    padding-top: 2px;
+}
